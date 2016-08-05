@@ -1,0 +1,29 @@
+_repo: This-Simian-World_6882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Day, Clarence
+    aliases:
+    - Day, Clarence, Jr.
+    - Day, Clarence Shepard
+    birthdate: 1874
+    deathdate: 1935
+    gutenberg_agent_id: '2236'
+    url: http://www.gutenberg.org/2009/agents/2236
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Day
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American wit and humor'
+- !lcsh 'Evolution (Biology) -- Wit and humor'
+- GITenberg
+title: This Simian World
+url: http://www.gutenberg.org/ebooks/6882
